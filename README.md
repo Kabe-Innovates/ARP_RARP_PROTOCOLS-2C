@@ -48,7 +48,6 @@ while True:
     s.send(ip.encode())
     print("MAC Address",s.recv(1024).decode())
 ```
-
 ## OUPUT 
 Refer to the following screenshot to view the output of the program.
 
